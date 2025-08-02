@@ -22,7 +22,7 @@ This project addresses the limitations of static, one-dimensional resumes by cre
 
 ### Demo GIF![AI Assistant](https://github.com/user-attachments/assets/1c085540-7fe7-4089-92e2-0f3fc9aeddd7)
 
-*(Pro Məsləhət: Bura layihənin işləməsini göstərən qısa bir GIF əlavə et. `ScreenToGif` kimi bir proqramla ekran görüntüsü videosu çəkib onu GIF-ə çevirə və bura yükləyə bilərsən. Faylı yüklədikdən sonra bu sətri dəyiş: `![Demo GIF](demo.gif)`)*
+
 
 ### Tech Stack
 - **Backend:** Python
