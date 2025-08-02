@@ -1,0 +1,65 @@
+Section 1: AI & Program Management Projects
+Project: AI Content Factory - Operations Dashboard & Public Portfolio
+
+My Role: Founder, Systems Architect
+
+Description: To address the challenge of creating high-quality English content with developing spoken fluency, I architected a comprehensive, automated content creation system. This wasn't just about using AI tools; it was about designing a robust operational workflow.
+
+Key Contributions:
+
+I built a centralized "AI Operations Dashboard" in Notion to manage the entire content lifecycle, from ideation and scripting to final production and publishing.
+
+I designed a repeatable 6-step content workflow, integrating tools like ChatGPT, ElevenLabs, and Midjourney into a seamless pipeline.
+
+I documented this entire system in a public GitHub repository, creating a "live portfolio" that transparently showcases my methodology.
+
+Outcome: This project demonstrates my core ability to transform a complex challenge into a structured, scalable system. It is a direct showcase of my skills in Program Management, Systems Thinking, Process Automation, and applied Generative AI.
+
+Section 2: Civil Engineering & Construction Projects
+Project: MKT-İK Bərdə Office Building Construction (2021)
+
+My Role: De-Facto Site Project Manager / Lead Engineer
+
+Description: Although my official title was "Assistant to the Site Manager," the reality was that the manager was rarely present. I stepped up to become the primary on-site engineering and management authority for this two-story office building construction.
+
+Key Contributions:
+
+I single-handedly managed all daily site operations: leading HSE inductions, coordinating labor, managing material procurement and acceptance, and overseeing construction quality.
+
+I was responsible for all project documentation, including daily financial reports, work schedules, and official progress reports (Form 2) for the head office.
+
+Outcome: This was a trial-by-fire experience where I managed a project from the ground up, proving my ability to take ownership and deliver results under pressure with minimal supervision.
+
+Project: PMDP Gabala Karvansaray Hotel - Fit-out, Landscape & Insulation (2023)
+
+My Role: Planning Engineer & Cost Controller (Office-Based)
+
+Description: For this large-scale luxury hotel project, my role was to provide critical planning and financial oversight from the head office.
+
+Key Contributions:
+
+Using Primavera P6 and Advanced Excel, I developed and maintained the master project schedule, tracked progress against deadlines, and prepared weekly progress reports for senior management.
+
+As the cost controller, I meticulously tracked all project expenditures, managed the budget, and prepared detailed cost forecasts to ensure the project remained financially viable.
+
+Outcome: My work directly contributed to keeping this complex, multi-faceted project on schedule and within its approved budget.
+
+Project: Mr.Decor Aghdam Wallpaper Factory Construction (2023)
+
+My Role: Central Planning & Tender Support Engineer
+
+Description: I played a pivotal background role in the planning and initial stages of this significant industrial project.
+
+Key Contributions:
+
+I was part of the core team that prepared the comprehensive technical and financial documentation for the project tender, contributing to the successful acquisition of the contract.
+
+I assisted in creating the initial project execution plans and resource allocation schedules.
+
+Outcome: Showcased my ability to contribute to the critical pre-construction phase, including tender preparation and strategic planning.
+
+Summary Note on Other Key Projects (2021-2025):
+
+My Role: Central Planning Engineer & Cost Controller
+
+Description: For a wide portfolio of other projects, including SOCAR Polymer Talvar Building, PMDP Naftalan Chinar Hotel, and the Baku Zafar Museum, I served as the primary office-based Planning Engineer and Cost Controller. My core responsibility was to provide consistent, reliable project planning, scheduling, and financial oversight across multiple simultaneous contracts, ensuring standardization and efficiency.

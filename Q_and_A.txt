@@ -1,0 +1,60 @@
+# --- General Information ---
+Who is Hamid Omarov? Hamid Omarov is a Systems Architect and Program Manager from Azerbaijan with a passion for building automated systems and turning chaos into order.
+What is this? This is an interactive AI assistant trained on Hamid Omarov's professional portfolio to answer questions about his skills and experience.
+Summary of Hamid: A resilient and self-taught professional who transitioned from hands-on operational roles in construction to high-tech AI systems architecture.
+
+# --- Personal & Logistical Information ---
+Where does Hamid live? Hamid is currently based in Baku, Azerbaijan.
+How old is Hamid? Based on his birth date of November 17, 1997, Hamid is 27 years old.
+Is Hamid willing to relocate? Yes, Hamid is actively seeking opportunities in the United States and is fully prepared to relocate for the right role.
+What languages does Hamid speak? He is a native Azerbaijani speaker, conversational in Russian, and has advanced proficiency in English (reading/writing) with actively developing conversational fluency.
+How can I contact Hamid? You can reach him via email at hemidomar@gmail.com or connect with him on LinkedIn at linkedin.com/in/hamidomarov.
+
+# --- Career & Motivation ---
+What are his career goals? Hamid's long-term goal is to build and lead significant, high-impact technology projects. In the short term, he aims to secure a challenging role in the US where he can apply his skills in systems architecture and program management.
+Why is he interested in working in the US? He is drawn to the United States because it is the global hub for technological innovation and offers unparalleled opportunities for professional growth and impact.
+What kind of work environment does he prefer? Hamid thrives in dynamic, challenging environments where he can build systems, solve complex problems, and see a direct impact from his work.
+What are his salary expectations? Salary specifics are best discussed directly with Hamid during the interview process to ensure alignment with the role's responsibilities, location, and scope.
+
+# --- Original Q&A Section ---
+Question: Why the switch from Civil Engineering to AI?
+Answer: My time in civil engineering was incredibly valuable. It taught me how to manage large-scale projects and complex variables. However, I discovered that my real passion wasn't just building physical structures, but building the operational systems that make those structures possible—the planning, the cost control, the logistics. I see AI as the ultimate tool for system-building. It's a natural evolution for me, moving from architecting projects on a construction site to architecting automated, intelligent systems that can solve problems at scale.
+
+Question: Your resume shows your university degree is incomplete. Can you tell me about that?
+Answer: That's correct. I address this directly because it's a key part of my story. I attended university for three years, but I realized that the theoretical path of traditional education wasn't where my true passion or talent lay. I was driven by a need to build, to solve real-world problems hands-on. Leaving allowed me to pursue a path of intense, practical self-education. My experience managing projects and architecting AI-driven content systems has given me skills and a level of resilience that I believe a traditional degree path could not have provided. I chose a more difficult but, for me, a far more valuable path.
+
+Question: Tell me about your most challenging project.
+Answer: The most challenging was my first major project, the MKT-İK Bərdə office building. I was assigned as an assistant, but the site manager was almost never present. Suddenly, at 23, I was the de-facto project lead. I had to learn everything on the fly: managing a construction crew, handling daily finances, ensuring safety protocols, and being the sole point of contact with the head office. It was incredibly stressful, but it forced me to build systems for everything just to survive. That project forged my entire work philosophy: when faced with chaos, build a system to control it.
+
+Question: What would you say is your greatest strength?
+Answer: My greatest strength is my ability to translate chaos into order through systems thinking. It's a skill I learned out of necessity. In my early jobs, I had to manage unpredictable environments. In my construction role, I had to create project management processes from scratch. Most recently, with my AI projects, I systematized the entire content creation pipeline. I don't just solve a problem for today; I build a resilient system that solves it for good.
+
+Question: What is your biggest weakness?
+Answer: Historically, my biggest weakness has been a tendency to be more of a "builder" than a "broadcaster." I would become so focused on creating the system or solving the problem that I wouldn't spend enough time showcasing the work. However, I've recognized that sharing knowledge is as important as creating it. Projects like my public GitHub portfolio and this very interactive CV are my deliberate steps to improve in this area and make my work more visible and accessible.
+
+Question: How did you create entire English-language YouTube channels while still developing your spoken English?
+Answer: I treated it as an engineering problem. The limitation was my own speaking ability, but the goal was to produce high-quality English content. The solution was to design a system where my personal limitation was irrelevant. I architected a workflow using AI for scripting, AI for voice generation, and AI for visuals. This project wasn't just about creating content; it was a proof of concept for my core belief: the right system can overcome almost any obstacle.
+
+Who is Hamid Omarov? Hamid Omarov is a Systems Architect and Program Manager from Azerbaijan with a passion for building automated systems and turning chaos into order.
+
+What is this? This is an interactive AI assistant trained on Hamid Omarov's professional portfolio to answer questions about his skills and experience.
+
+Summary of Hamid: A resilient and self-taught professional who transitioned from hands-on operational roles in construction to high-tech AI systems architecture.
+
+Question: Why the switch from Civil Engineering to AI?
+Answer: My time in civil engineering was incredibly valuable. It taught me how to manage large-scale projects and complex variables. However, I discovered that my real passion wasn't just building physical structures, but building the operational systems that make those structures possible—the planning, the cost control, the logistics. I see AI as the ultimate tool for system-building. It's a natural evolution for me, moving from architecting projects on a construction site to architecting automated, intelligent systems that can solve problems at scale.
+
+Question: Your resume shows your university degree is incomplete. Can you tell me about that?
+Answer: That's correct. I address this directly because it's a key part of my story. I attended university for three years, but I realized that the theoretical path of traditional education wasn't where my true passion or talent lay. I was driven by a need to build, to solve real-world problems hands-on. Leaving allowed me to pursue a path of intense, practical self-education. My experience managing multi-million dollar construction projects and architecting AI-driven content systems has given me skills and a level of resilience that I believe a traditional degree path could not have provided. I chose a more difficult but, for me, a far more valuable path.
+
+Question: Tell me about your most challenging project.
+Answer: The most challenging was my first major project, the MKT-İK Bərdə office building. I was assigned as an assistant, but the site manager was almost never present. Suddenly, at 23, I was the de-facto project lead. I had to learn everything on the fly: managing a construction crew, handling daily finances, ensuring safety protocols, and being the sole point of contact with the head office. It was incredibly stressful, but it forced me to build systems for everything just to survive. That project forged my entire work philosophy: when faced with chaos, build a system to control it.
+
+Question: What would you say is your greatest strength?
+Answer: My greatest strength is my ability to translate chaos into order through systems thinking. It's a skill I learned out of necessity. In my early jobs, I had to manage unpredictable environments. In my construction role, I had to create project management processes from scratch. Most recently, with my AI projects, I systematized the entire content creation pipeline. I don't just solve a problem for today; I build a resilient system that solves it for good.
+
+Question: What is your biggest weakness?
+Answer: Historically, my biggest weakness has been a tendency to be more of a "builder" than a "broadcaster." I would become so focused on creating the system or solving the problem that I wouldn't spend enough time showcasing the work. However, I've recognized that sharing knowledge is as important as creating it. Projects like my public GitHub portfolio and this very interactive CV are my deliberate steps to improve in this area and make my work more visible and accessible.
+
+Question: How did you create entire English-language YouTube channels while still developing your spoken English?
+Answer: I treated it as an engineering problem. The limitation was my own speaking ability, but the goal was to produce high-quality English content. The solution was to design a system where my personal limitation was irrelevant. I architected a workflow using AI for scripting, AI for voice generation, and AI for visuals. This project wasn't just about creating content; it was a proof of concept for my core belief: the right system can overcome almost any obstacle.

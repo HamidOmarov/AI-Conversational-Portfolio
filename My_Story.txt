@@ -1,0 +1,16 @@
+Title: My Story: From Chaos Operator to AI Architect
+
+My journey has been anything but conventional. Shaped by necessity and resilience in Baku, Azerbaijan, my career began not in a classroom, but in the crucible of real-world operations. These foundational years taught me one core truth: the most complex problems are often just systems waiting to be built.
+
+The Foundation: Forged in Chaos (2015-2021)
+My professional life started at 17, driven by difficult financial circumstances. I didn’t have the luxury of a typical career path; instead, I took on a series of intense, demanding jobs. I learned endurance from 15-hour shifts as a waiter's assistant and grit from the dust of construction sites. But my true education came from the chaotic Baku train station—a real-world MBA in human psychology, negotiation, and crisis management. While my formal civil engineering education remained incomplete, these experiences gave me an unparalleled practical understanding of how to bring order to chaos.
+
+The Turning Point: Building Systems (2021-Present)
+In 2021, I joined a 7-person construction company. My knack for technology was immediately apparent; after teaching myself AutoCAD and Primavera P6, I was pulled from the field to become the operational hub of the office. My role evolved rapidly: I was the planning engineer, the cost controller, the QA/QC specialist, and the de-facto program manager. I didn’t just execute tasks; I built the operational systems and processes that enabled the company to scale to a workforce of over 50, managing a portfolio of high-profile projects. It was here I discovered that my true passion wasn't just building structures, but building the systems that make everything work.
+
+The Leap: Architecting the Future with AI
+This passion led me to AI. I saw it as the ultimate tool for system-building. On my own time, I faced a personal barrier—my developing spoken English—and treated it like an engineering problem. The solution? I architected a fully automated content factory. I launched five distinct YouTube media brands, orchestrating a suite of generative AI tools to handle everything from scripting to voiceover and visuals. This wasn't just a project; it was proof that the right system can overcome almost any limitation. To showcase this, I built a public "AI Operations Dashboard" on Notion, documented in a GitHub repository, demonstrating my methodology in action.
+
+My Mission
+I am a dreamer, but I am also a builder. My journey has given me a rare blend of real-world operational grit and high-tech systems thinking. I thrive on turning ambiguous challenges into structured, efficient, and scalable solutions. I am now seeking to bring this unique perspective to a high-impact role in the United States, where I can help build the systems that will shape the future.
+

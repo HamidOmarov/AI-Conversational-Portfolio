@@ -1,0 +1,69 @@
+1. Role: Program & Operations Specialist
+Company: "JS Group" LLC, Baku, Azerbaijan
+Dates: February 2021 – Present (July 2025)
+
+Core Mission: To build and manage the core operational and project management systems that would enable the company to scale from a 7-person team to a multi-project organization of over 50 employees.
+
+Key Responsibilities & Accomplishments:
+
+System & Process Building: Evolved from a junior role to the central operational hub of the company. I designed and implemented standardized procedures for reporting, documentation, and cost control where none existed before.
+
+Project Planning & Scheduling: Mastered and utilized Primavera P6 and MS Project to create, track, and report on detailed project timelines for all major company contracts.
+
+Cost Control & Financial Management: Acted as the primary cost controller, managing budgets, tracking expenses, preparing cost forecasts, and handling progress payment documentation (Form 2, IPCs) to ensure healthy project cash flow.
+
+Technical Design & Drafting: Utilized AutoCAD to create and modify technical drawings, providing essential support for site teams and tender proposals.
+
+QA/QC & HSE Management: Developed and managed Quality Assurance/Quality Control documentation and Health, Safety & Environment (HSE) protocols, conducting site inductions and ensuring compliance.
+
+Tender & Contract Management: Played a key role in preparing technical and financial documentation for tenders, contributing to securing new projects. Managed and sorted all company contracts.
+
+Client & Stakeholder Communication: Served as a key point of contact for clients regarding payment status and project updates, and coordinated with internal teams and suppliers.
+
+Skills Gained:
+
+Technical: Primavera P6, AutoCAD, Advanced MS Excel (for cost control), MS Office Suite.
+
+Managerial: Program Management, Process Optimization, Systems Thinking, Cost Control, QA/QC, HSE Management, Tender Preparation, Stakeholder Liaison.
+
+2. Role: Founder & AI Systems Architect
+Company: Independent Projects (e.g., @aienigmax, @chronodrop)
+Dates: 2022 – Present
+
+Core Mission: To design and deploy a fully automated content creation workflow using a suite of generative AI tools, effectively turning a personal limitation (developing spoken English) into a showcase of systems architecture.
+
+Key Responsibilities & Accomplishments:
+
+System Architecture: Designed an end-to-end content pipeline, from automated ideation and scriptwriting to AI-generated voiceovers and visuals.
+
+Platform Development: Launched and managed a portfolio of 5 distinct YouTube media brands, each targeting a different niche (AI news, history, music, etc.).
+
+Tool Orchestration: Integrated and managed multiple AI tools (LLMs like ChatGPT for text, text-to-speech like ElevenLabs, visual generators like Midjourney) into a single, cohesive workflow.
+
+Public Documentation: Created the "AI Content Factory Operations Dashboard" on Notion and a corresponding public GitHub repository to transparently document the project's methodology and serve as a live portfolio.
+
+Skills Gained:
+
+Technical: Generative AI Toolchains, AI Prompt Engineering, Content Automation Systems, YouTube SEO & Analytics, Notion, GitHub.
+
+Creative: Content Strategy, Niche Analysis, Digital Brand Building.
+
+3. Role: Various Operational & Customer-Facing Roles
+Environment: High-Pressure, Unstructured Environments (e.g., Baku Train Station retail, high-volume restaurants, independent sales kiosks)
+Dates: 2015 – 2021
+
+Core Mission: To operate effectively in chaotic, high-stakes environments, requiring extreme adaptability, resilience, and rapid problem-solving.
+
+Key Responsibilities & Accomplishments:
+
+Crisis Management: Successfully navigated extremely fast-paced and unpredictable situations daily, including managing high customer traffic, preventing theft, and resolving conflicts on the spot.
+
+Sales & Negotiation: Drove sales in highly competitive environments. Learned to read customers, tailor my approach, and close deals under pressure. This included practicing basic English and Russian with tourists.
+
+Solo Operations: Independently managed a retail kiosk for 18 months, handling all aspects of the business from inventory and sales to security and customer relations, including dealing with official inspections.
+
+Physical & Mental Endurance: Consistently worked long, physically demanding shifts (12-15+ hours) in various roles, building a foundation of grit and a powerful work ethic.
+
+Skills Gained:
+
+Soft Skills: Resilience, Adaptability, Crisis Management, Negotiation, Human Psychology, High-Pressure Operations, Radical Self-Reliance.
